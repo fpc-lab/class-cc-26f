@@ -2,7 +2,7 @@
 
 ### Logistics
 
-- **Course Number:** POSTECH CSED490M
+- **Course Number:** POSTECH CSED490V
 - **Course Portal:** TBA
 - **Staff:** [Wonyeol Lee](https://wonyeol.github.io/) (Instructor), TBA (TA)
 - **Lectures:** Tuesdays & Thursdays, 2:00pm—3:15pm (Science Bldg Ⅱ #109; 공학2동 109호)
