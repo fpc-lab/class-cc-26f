@@ -3,12 +3,12 @@
 | Date | Unit | Topic | Out | Due |
 | --- | --- | --- | --- | --- |
 | 9/8 | Introduction | Course Overview |  |  |
-| 9/10 | Numbers (Reals) | Computable Reals (Definitions) |  |  |
+| 9/10 | Numbers: Reals | Computable Reals (Definitions) |  |  |
 | 9/15 |  | Computable Reals (Examples) |  |  |
 | 9/17 |  | Computable Functions (Definitions) |  |  |
 | 9/22 |  | Computable Functions (Examples) | HW1 |  |
 | 9/24 | — | [No Class] (Chuseok) |  |  |
-| 9/29 | Numbers (Floats) | Floating-Point Arithmetic |  |  |
+| 9/29 | Numbers: Floats | Floating-Point Arithmetic |  |  |
 | 10/1 |  | Floating-Point Errors (Manual Analysis) |  |  |
 | 10/6 |  | Floating-Point Errors (Cancellation, Overflow) |  | HW1 |
 | 10/8 |  | Error Control (Automatic Analysis) | HW2 |  |
@@ -26,7 +26,7 @@
 | 11/19 |  | Classical Differentiation (Symbolic Methods) |  |  |
 | 11/24 |  | Automatic Differentiation (Forward/Reverse Mode) | HW4 |  |
 | 11/26 |  | Automatic Differentiation (Recent Results) |  |  |
-| 12/1 |  Integrals & Distributions | Random Numbers |  |  |
+| 12/1 | Distributions + Integrals | Random Numbers |  |  |
 | 12/3 |  | Sampling (Transformation Methods) |  |  |
 | 12/8 |  | Sampling (Rejection Methods) |  | HW4 |
 | 12/10 |  | Integration (Numerical Methods) | HW5 |  |
