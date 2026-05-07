@@ -3,12 +3,12 @@
 | Date | Unit | Topic | Out | Due |
 | --- | --- | --- | --- | --- |
 | 9/8 | Introduction | Course Overview |  |  |
-| 9/10 | Numbers: Reals | Computable Reals (Definitions) |  |  |
+| 9/10 | Numbers (Reals) | Computable Reals (Definitions) |  |  |
 | 9/15 |  | Computable Reals (Examples) |  |  |
 | 9/17 |  | Computable Functions (Definitions) |  |  |
 | 9/22 |  | Computable Functions (Examples) | HW1 |  |
 | 9/24 | — | [No Class] (Chuseok) |  |  |
-| 9/29 | Numbers: Floats | Floating-Point Arithmetic |  |  |
+| 9/29 | Numbers (Floats) | Floating-Point Arithmetic |  |  |
 | 10/1 |  | Floating-Point Errors (Manual Analysis) |  |  |
 | 10/6 |  | Floating-Point Errors (Cancellation, Overflow) |  | HW1 |
 | 10/8 |  | Error Control (Automatic Analysis) | HW2 |  |
