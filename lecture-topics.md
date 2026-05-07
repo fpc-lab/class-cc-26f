@@ -6,7 +6,7 @@
     - [Computing over the Reals](https://www.ams.org/journals/notices/200603/fea-cook.pdf) [2006, Braverman+].
     - [Computing over the Reals](https://www.ams.org/notices/200409/fea-blum.pdf) [2004, Blum].
 
-### Numbers: Reals
+### Numbers (Reals)
 
 - **Computable Reals:** Definitions, (non-)examples.
     - [Computability and Analysis](https://arxiv.org/abs/1206.3431) [2014, Avigad+] (§1-2).
@@ -16,7 +16,7 @@
     - [Computing over the Reals](https://www.ams.org/journals/notices/200603/fea-cook.pdf) [2006, Braverman+].
     - [A Tutorial on Computable Analysis](https://link.springer.com/chapter/10.1007/978-0-387-68546-5_18) [2008, Brattka+] (§4).
 
-### Numbers: Floats
+### Numbers (Floats)
 
 - **Floating-Point Arithmetic (Basics):** Floating-point arithmetic, floating-point errors.
     - [Handbook of Floating-Point Arithmetic](https://link.springer.com/book/10.1007/978-3-319-76526-6) [2018, Muller+] (§2, 3.1, 5.1-5.3).
