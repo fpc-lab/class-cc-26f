@@ -22,7 +22,7 @@
 ### Prerequisites
 
 - Students should have a basic knowledge of Algorithms (CSED331), Calculus (MATH101), and Probability (MATH230).
-  Since this course is **highly math-intensive**, students should be comfortable with understanding and doing rigorous mathematical proofs.
+  This course is **highly math-intensive**, so students should be comfortable with understanding and doing rigorous mathematical proofs.
 - The following courses are relevant but not required: Automata & Formal Languages (CSED341), Programming Languages (CSED321), Introduction to Numerical Analysis (MATH351), and Analysis I (MATH311).
   Students are welcome to audit this course.
 
