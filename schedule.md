@@ -1,6 +1,6 @@
 # Schedule
 
-| Date | Unit | Topic | Out | Due |
+| Date | Unit | Topics | Out | Due |
 | --- | --- | --- | --- | --- |
 | 9/8 | Introduction | Course Overview |  |  |
 | 9/10 | Numbers (Reals) | Computable Reals (Definitions) |  |  |
