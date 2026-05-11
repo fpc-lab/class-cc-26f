@@ -16,7 +16,7 @@
 | 10/15 | Functions                 | Polynomial Approximation                         |     |     |
 | 10/20 |                           | Minmax Polynomials (Properties)                  |     |     |
 | 10/22 |                           | Minmax Polynomials (Algorithms)                  |     | HW2 |
-| 10/27 | —                         | **[Midterm Exam] (13:45—15:15)**                    |     |     |
+| 10/27 | —                         | **[Midterm Exam] (09:15—10:45)**                    |     |     |
 | 10/29 | —                         | [No Class]                                       |     |     |
 | 11/3  |                           | Range Reduction (Examples)                       | HW3 |     |
 | 11/5  |                           | Range Reduction (Implementations)                |     |     |
@@ -32,5 +32,5 @@
 | 12/10 |                           | Integration (Numerical Methods)                  | HW5 |     |
 | 12/15 |                           | Integration (Monte Carlo Methods)                |     |     |
 | 12/17 | Conclusion                | Course Summary                                   |     |     |
-| 12/22 | —                         | **[Final Exam] (13:45—15:15)**                      |     |     |
+| 12/22 | —                         | **[Final Exam] (09:15—10:45)**                      |     |     |
 | 12/24 | —                         | [No Class]                                       |     | HW5 |
