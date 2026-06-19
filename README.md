@@ -28,10 +28,9 @@
 
 ### Grades
 
-- **Attendance (0%):** Fail if you are absent for ≥8 classes based on the electronic system.
-- **Participation (10%):** Full credit if you ask questions during or after ≥5 classes.
+- **Attendance (0%):** Fail if you are absent for ≥8 classes based on the electronic system. Extra credit if you attend all classes.
 - **Homework (10%):** You will have 4~5 homework assignments.
-- **Exam (80%):** You will have a midterm (40%) and a final (40%).
+- **Exam (90%):** You will have a midterm (45%) and a final (45%).
 - **Note:** The weights of the above items are subject to change.
 
 ### Links
