@@ -42,4 +42,4 @@
 ### Electronic Devices
 
 - The use of any electronic devices (laptops, tablets, smartphones, etc.) is **strictly prohibited** during class.
-- Exceptions: Tablets may be used **only for taking notes**. Approved devices may be used for accessibility purposes.
+- Exceptions: Tablets are allowed **only for taking notes**. Approved devices are allowed for accessibility purposes.
