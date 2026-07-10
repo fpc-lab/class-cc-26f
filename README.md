@@ -33,13 +33,13 @@
 - **Exam (90%):** You will have a midterm (45%) and a final (45%).
 - **Note:** The weights of the above items are subject to change.
 
-### Link
+### Links
 
 - [**Schedule**](./schedule.md)
 - [**Lecture Topics**](./lecture-topics.md)
 - **Lecture Notes + Homework**
 
-### Policy on Electronic Devices
+### Electronic Devices
 
 - The use of any electronic devices (laptops, tablets, smartphones, etc.) is **strictly prohibited** during class.
 - Exceptions: Tablets may be used **only for taking notes**. Approved devices may be used for accessibility purposes.
