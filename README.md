@@ -42,5 +42,5 @@
 ### Electronic Devices
 
 - **Any electronic devices** (laptops, tablets, smartphones, etc.) must not be visible on desks during class.
-- Exceptions: **Tablets with pens** are allowed only for note-taking. **Devices for accessibility** are allowed.
+- Exceptions: **Tablets with pens** are allowed only for note-taking. **Devices for accessibility** are always allowed.
 - Motivation: [Here's What Happened When I Made My College Students Put Away Their Phones](https://archive.is/ZVgP0) (NYT, 2025).
