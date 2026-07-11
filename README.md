@@ -42,5 +42,5 @@
 ### Links
 
 - [**Schedule**](./schedule.md)
-- [**Lecture Topics**](./lecture-topics.md)
+- [**References**](./references.md)
 - **Lecture Notes + Homework**
