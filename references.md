@@ -66,12 +66,12 @@
 
 ### Distributions + Integrals
 
-- **Sampling:** Inversion/transformation methods, rejection/mixture methods.
-    - [Monte Carlo Theory, Methods and Examples](https://artowen.su.domains/mc/) [2013, Owen] (§??).
-    - [Lecture Notes of “Monte Carlo Methods and Applications”](https://www.math.cmu.edu/~gautam/c/2024-387/notes/index.html) [2024, Iyer] (§??).
+- **Sampling:** Random numbers, inversion/transformation methods, rejection/mixture methods.
+    - [Lecture Notes of “Monte Carlo Methods and Applications”](https://www.math.cmu.edu/~gautam/c/2024-387/notes/index.html) [2024, Iyer] (§2).
+    - [Monte Carlo Theory, Methods and Examples](https://artowen.su.domains/mc/) [2013, Owen] (§4.1–4.2, 4.7, 4.9).
 - **Integration:** Numerical methods, Monte Carlo methods. <!-- consistency/bias/variance, convergence. -->
-    - [Lecture Notes of “Monte Carlo Methods and Applications”](https://www.math.cmu.edu/~gautam/c/2024-387/notes/index.html) [2024, Iyer] (§??).
-    - [Monte Carlo theory, Methods and Examples](https://artowen.su.domains/mc/) [2013, Owen] (§??).
+    - [Lecture Notes of “Monte Carlo Methods and Applications”](https://www.math.cmu.edu/~gautam/c/2024-387/notes/index.html) [2024, Iyer] (§1, 3).
+    - [Monte Carlo theory, Methods and Examples](https://artowen.su.domains/mc/) [2013, Owen] (§2, 7).
 
 <!--
 - **Discrete Distributions:** Inversion/alias method, entropy optimality.
