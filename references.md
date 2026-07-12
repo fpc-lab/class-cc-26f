@@ -9,7 +9,7 @@
 ### Numbers (Reals)
 
 - **Computable Reals:** Definitions, (non-)examples.
-    - [Computability and Analysis](https://arxiv.org/abs/1206.3431) [2014, Avigad+] (§1–2.4).
+    - [Computability and Analysis](https://arxiv.org/abs/1206.3431) [2014, Avigad+] (§1, 2.1–2.4).
     - [A Tutorial on Computable Analysis](https://link.springer.com/chapter/10.1007/978-0-387-68546-5_18) [2008, Brattka+] (§1–3).
 - **Computable Functions**: Definitions, (non-)examples.
     - [Recursive Real Numbers](https://www.jstor.org/stable/2031867?seq=1) [1954, Rice].
@@ -29,7 +29,7 @@
 ### Functions
 
 - **Polynomial Approximation:** Motivation, universal approximation.
-    - [An Introduction to the Approximation of Functions](https://books.google.co.kr/books?id=wtS2xm8ggA4C&pg=PA11&hl=ko&source=gbs_toc_r&cad=2#v=onepage&q&f=false) [1969, Rivlin] (§0–1.1).
+    - [An Introduction to the Approximation of Functions](https://books.google.co.kr/books?id=wtS2xm8ggA4C&pg=PA11&hl=ko&source=gbs_toc_r&cad=2#v=onepage&q&f=false) [1969, Rivlin] (§0, 1.1).
 - **Minmax Polynomials:** Properties, algorithms.
     - [An Introduction to the Approximation of Functions](https://books.google.co.kr/books?id=wtS2xm8ggA4C&pg=PA11&hl=ko&source=gbs_toc_r&cad=2#v=onepage&q&f=false) [1969, Rivlin] (§1.2–1.4).
     - [Elementary Functions (3ed)](https://link.springer.com/book/10.1007/978-1-4899-7983-4) [2016, Muller] (§3.3–3.6).
@@ -53,7 +53,7 @@
     - [Demystifying Differentiable Programming: Shift/Reset the Penultimate Backpropagator](https://dl.acm.org/doi/10.1145/3341700) [2019, Wang+] (§2.1).
 - **Automatic Differentiation:** Forward/reverse mode, recent results. <!-- dual numbers -->
     - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) [2024, Blondel+] (§8.1–8.4).
-    - [Demystifying Differentiable Programming: Shift/Reset the Penultimate Backpropagator](https://dl.acm.org/doi/10.1145/3341700) [2019, Wang+] (§2.2–3).
+    - [Demystifying Differentiable Programming: Shift/Reset the Penultimate Backpropagator](https://dl.acm.org/doi/10.1145/3341700) [2019, Wang+] (§2.2, 3).
 
 <!--
 - **Automatic Differentiation (Basics):**
