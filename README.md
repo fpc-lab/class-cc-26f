@@ -44,4 +44,3 @@
 
 - [**Schedule**](./schedule.md)
 - [**References**](./references.md)
-- **Lecture Notes + Homework**
