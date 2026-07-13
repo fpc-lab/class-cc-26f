@@ -50,10 +50,10 @@
 
 - **Classical Differentiation:** Derivatives, numerical methods, symbolic methods.
     - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) [2024, Blondel+] (§2.1–2.3, 7).
-    - [Demystifying Differentiable Programming: Shift/Reset the Penultimate Backpropagator](https://dl.acm.org/doi/10.1145/3341700) [2019, Wang+] (§2.1).
+    - [Demystifying Differentiable Programming](https://dl.acm.org/doi/10.1145/3341700) [2019, Wang+] (§2.1).
 - **Automatic Differentiation:** Forward/reverse mode, recent results. <!-- dual numbers -->
     - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) [2024, Blondel+] (§8.1–8.4).
-    - [Demystifying Differentiable Programming: Shift/Reset the Penultimate Backpropagator](https://dl.acm.org/doi/10.1145/3341700) [2019, Wang+] (§2.2, 3).
+    - [Demystifying Differentiable Programming](https://dl.acm.org/doi/10.1145/3341700) [2019, Wang+] (§2.2, 3).
 
 <!--
 - **Automatic Differentiation (Basics):**
