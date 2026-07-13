@@ -64,7 +64,7 @@
     - [On Correctness of Automatic Differentiation for Non-Differentiable Functions](https://arxiv.org/abs/2006.06903) [2020].
 -->
 
-### Distributions + Integrals
+### Integrals & Distributions
 
 - **Sampling:** Random numbers, inversion/transformation methods, rejection/mixture methods.
     - [Lecture Notes of “Monte Carlo Methods and Applications”](https://www.math.cmu.edu/~gautam/c/2024-387/notes/index.html) [2024, Iyer] (§2).
