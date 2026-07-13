@@ -24,7 +24,7 @@
     - [Handbook of Floating-Point Arithmetic (2ed)](https://link.springer.com/book/10.1007/978-3-319-76526-6) [2018, Muller+] (§2.3).
     - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://dl.acm.org/doi/10.1145/103162.103163) [1991, Goldberg] (§1.4, 4.1).
 - **Error Control:** Automatic error analysis, error-free computations.
-    - [Handbook of Floating-Point Arithmetic](https://link.springer.com/book/10.1007/978-3-319-76526-6) [2018, Muller+] (§4.2–4.4, 12.4).
+    - [Handbook of Floating-Point Arithmetic (2ed)](https://link.springer.com/book/10.1007/978-3-319-76526-6) [2018, Muller+] (§4.2–4.4, 12.4).
 
 ### Functions
 
@@ -34,12 +34,12 @@
     - [An Introduction to the Approximation of Functions](https://books.google.co.kr/books?id=wtS2xm8ggA4C&pg=PA11&hl=ko&source=gbs_toc_r&cad=2#v=onepage&q&f=false) [1969, Rivlin] (§1.2–1.4).
     - [Elementary Functions (3ed)](https://link.springer.com/book/10.1007/978-1-4899-7983-4) [2016, Muller] (§3.3–3.6).
 - **Range Reduction:** Examples, implementations.
-    - [Handbook of Floating-Point Arithmetic](https://link.springer.com/book/10.1007/978-3-319-76526-6) [2018, Muller+] (§10.1–10.2).
+    - [Handbook of Floating-Point Arithmetic (2ed)](https://link.springer.com/book/10.1007/978-3-319-76526-6) [2018, Muller+] (§10.1–10.2).
     - [Elementary Functions (3ed)](https://link.springer.com/book/10.1007/978-1-4899-7983-4) [2016, Muller] (§6.1–6.2, 11.1, 14).
 
 <!--
 - **Fixed-Precision Evaluation (Advanced):** Accurate computations, actual implementations.
-    - [Handbook of Floating-Point Arithmetic](https://link.springer.com/book/10.1007/978-3-319-76526-6) [2018, Muller+] (§10.3-10.6).
+    - [Handbook of Floating-Point Arithmetic (2ed)](https://link.springer.com/book/10.1007/978-3-319-76526-6) [2018, Muller+] (§10.3-10.6).
     - [Elementary Functions (3ed)](https://link.springer.com/book/10.1007/978-1-4899-7983-4) [2016, Muller] (§4, 5, 11.2, 12).
 - **Arbitrary-Precision Evaluation:** Integer multiplication, power series.
     - [Elementary Functions (3ed)](https://link.springer.com/book/10.1007/978-1-4899-7983-4) [2016, Muller] (§7.1–7.2, 7.4).
@@ -49,10 +49,10 @@
 ### Derivatives
 
 - **Classical Differentiation:** Derivatives, numerical methods, symbolic methods.
-    - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) [2024, Blondel+] (§2.1–2.3, 7).
+    - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) [2025, Blondel+] (§2.1–2.3, 7).
     - [Demystifying Differentiable Programming](https://dl.acm.org/doi/10.1145/3341700) [2019, Wang+] (§2.1).
 - **Automatic Differentiation:** Forward/reverse mode, recent results. <!-- dual numbers -->
-    - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) [2024, Blondel+] (§8.1–8.4).
+    - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) [2025, Blondel+] (§8.1–8.4).
     - [Demystifying Differentiable Programming](https://dl.acm.org/doi/10.1145/3341700) [2019, Wang+] (§2.2, 3).
 
 <!--
@@ -60,7 +60,7 @@
     - [A Hitchhikers Guide to Automatic Differentiation](https://link.springer.com/article/10.1007/s11075-015-0067-6) [2016, Hoffmann] (§5).
     - [Backpropagation in the Simply Typed Lambda Calculus](https://dl.acm.org/doi/10.1145/3371132) [2020, Brunel+] (§1–3).
 - **Automatic Differentiation (Advanced):** Higher-order derivatives, non-differentiability.
-    - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) [2024, Blondel+] (§9).
+    - [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) [2025, Blondel+] (§9).
     - [On Correctness of Automatic Differentiation for Non-Differentiable Functions](https://arxiv.org/abs/2006.06903) [2020].
 -->
 
