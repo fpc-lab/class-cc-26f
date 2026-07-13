@@ -22,7 +22,7 @@
     - [Numerical Computing with IEEE Floating Point Arithmetic (2ed)](https://bpb-us-e1.wpmucdn.com/wp.nyu.edu/dist/8/24616/files/2024/01/RevisedBookForStudentsJan24.pdf?bid=24616) [2026, Overton] (§3–6).
 - **Floating-Point Errors:** Manual error analysis, cancellation/overflow.
     - [Handbook of Floating-Point Arithmetic (2ed)](https://link.springer.com/book/10.1007/978-3-319-76526-6) [2018, Muller+] (§2.3).
-    - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://dl.acm.org/doi/10.1145/103162.103163) [1991, Goldberg] (§1.4, 4.1).
+    - [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/800-7895/800-7895.pdf) [1992, Goldberg] (pp. 8–10, 52–54).
 - **Error Control:** Automatic error analysis, error-free computations.
     - [Handbook of Floating-Point Arithmetic (2ed)](https://link.springer.com/book/10.1007/978-3-319-76526-6) [2018, Muller+] (§4.2–4.4, 12.4).
 
