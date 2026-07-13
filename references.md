@@ -9,7 +9,7 @@
 ### Numbers (Reals)
 
 - **Computable Reals:** Definitions, (non-)examples.
-    - [Computability and Analysis](https://arxiv.org/abs/1206.3431) [2014, Avigad+] (§1, 2.1–2.4).
+    - [Computability and Analysis](https://arxiv.org/abs/1206.3431) [2012, Avigad+] (§1, 2.1–2.4).
     - [A Tutorial on Computable Analysis](https://link.springer.com/chapter/10.1007/978-0-387-68546-5_18) [2008, Brattka+] (§1–3).
 - **Computable Functions**: Definitions, (non-)examples.
     - [Recursive Real Numbers](https://www.jstor.org/stable/2031867?seq=1) [1954, Rice].
