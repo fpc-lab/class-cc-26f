@@ -25,7 +25,7 @@
 | 11/17 |                           | Classical Differentiation (Symbolic Methods)     |     |         |
 | 11/19 |                           | Automatic Differentiation (Forward/Reverse Mode) |     |         |
 | 11/24 |                           | Automatic Differentiation (Recent Results)       |     |         |
-| 11/26 | Distributions + Integrals | Random Numbers                                   | HW5 |         |
+| 11/26 | Integrals & Distributions | Random Numbers                                   | HW5 |         |
 | 12/1  |                           | Sampling (Transformation Methods)                |     | **HW4** |
 | 12/3  | —                         | _No Class (University Anniversary)_              |     |         |
 | 12/8  |                           | Sampling (Rejection Methods)                     |     |         |
