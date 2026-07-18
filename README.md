@@ -3,7 +3,7 @@
 ### Logistics
 
 - **Course Number:** POSTECH CSED490V
-- **Course PLMS:** https://plms.postech.ac.kr/local/ubion/course/users.php?id=15739
+- **Course PLMS:** https://plms.postech.ac.kr/course/view.php?id=15739
 - **Staff:** [Wonyeol Lee](https://wonyeol.github.io/) (Instructor), TBA (TA)
 - **Lectures:** Tuesdays & Thursdays, 09:30—10:45 (Science Bldg Ⅱ #109; 공학2동 109호)
 - **Office Hours:** By appointment via email (PIAI #335; 인공지능연구원 335호)
